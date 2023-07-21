@@ -15,11 +15,11 @@ Make sure both the libraries are installed. Install them inside the project fold
 
 ## Installation
 
-1. Extract the zip file. Place the movie_collection folder at a suitable location.
+1. Place the movie-collection folder at a suitable location.
 
 2. Change into the project directory:
 
-	cd movie_collection
+	cd movie-collection
 
 3. Install the project dependencies:
 
@@ -61,7 +61,7 @@ You can use the following methods & urls in Postman or Web Browser. Make sure to
 - 'PATCH /api/movies/{id}/': Partially update an existing movie.
 - 'DELETE /api/movies/{id}/': Delete a movie.
 
-NOTE - Please refer to the code comments in movie_collection\api_app\api.py file for complete details on request/response formats.
+NOTE - Please refer to the code comments in movie-collection\api_app\api.py file for complete details on request/response formats.
 
 ## Pagination
 
