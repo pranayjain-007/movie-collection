@@ -8,7 +8,7 @@ The movie collection project consists of few REST API endpoints for a movie rent
 
 Python Libraries:
 
-- Django (version 4.2.2)
+- django (version 4.2.2)
 - djangorestframework==3.14.0
 
 Make sure both the libraries are installed. Install them inside the project folder using pip commmand. (eg. pip install djangorestframework==3.14.0)
